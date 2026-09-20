@@ -1,0 +1,1 @@
+This repo was created to practice the basics of testing in JS
